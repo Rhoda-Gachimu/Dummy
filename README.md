@@ -17,7 +17,7 @@
  ## Installation
  
  ### Requirements
- ##technology-used
- ##licence
- ##Authors Info
+ ## technology-used
+ ## licence
+ ## Authors Info
  
